@@ -23,7 +23,7 @@
         <slf4j.version>1.7.30</slf4j.version>
         <lombok.version>1.18.12</lombok.version>
         <javafx.version>15-ea+2</javafx.version>
-        <commons-net.version>3.6</commons-net.version>
+        <commons-net.version>3.9.0</commons-net.version>
     </properties>
 
 
